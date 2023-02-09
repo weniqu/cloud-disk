@@ -1,4 +1,5 @@
 {
   "serverPort": 5000,
-  "dbUrl": "mongodb+srv://weniqu:<password>@cluster0.ej88pvk.mongodb.net/?retryWrites=true&w=majority"
+  "dbUrl": "",
+  "secretKey": "mern-secret-key"
 }
